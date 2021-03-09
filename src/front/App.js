@@ -33,6 +33,10 @@ const SOCKET_URI = 'http://localhost:8002' //process.env.REACT_APP_SERVER_URI;
  *
  */
 
+ /*
+ IN THIS APP USE THIS VERSION OF SOCKEET IOS
+  "socket.io-client": "^2.3.0",
+ */
 class App extends Component {
   socket = null;
 
